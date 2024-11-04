@@ -1,0 +1,23 @@
+ 
+
+.navbar {
+    display: flex;
+    justify-content:  space-around;
+    align-items: center;
+    border-radius:   50px 50px 50px 50px;
+    padding: 15px 10px;
+    background-color: #938686;
+    color: #fff;
+    gap: 10px;
+  }
+  
+  .navbar a {
+     
+    color: #fff;
+    text-decoration: none;
+    padding: 6px 10px;
+
+    
+  }
+  
+ 

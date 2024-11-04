@@ -1,0 +1,8 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+  
+    margin: 24px 40px;
+    background-color: #d5d0d0;
+    color: #fff;
+}
