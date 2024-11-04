@@ -5,7 +5,7 @@ import Home from './pages/home'
 import About from './pages/about'
 import Works from './pages/works'
 import Contact from './pages/contact'
-import Layout from './components/Layout'
+import Layout from './components/layout'
 
 function App() {
 

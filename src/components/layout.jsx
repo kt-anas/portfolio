@@ -2,6 +2,7 @@ import React from 'react'
 import { Outlet } from 'react-router-dom'
 import Navbar from './Navbar'
 import styles from '../styles/components/layout.module.css'
+// import Footer from './footer'
 
 function Layout() {
   return (
@@ -10,7 +11,7 @@ function Layout() {
     <Navbar />
    </div>
     <Outlet />
-    
+    {/* <Footer /> */}
     </div>
   )
 }
