@@ -5,7 +5,7 @@ function Home() {
     <div>
       <div className={styles.container}>
          <div className={styles.section}>
-            
+            <h1>Home</h1>
          </div>
       </div>
     </div>
