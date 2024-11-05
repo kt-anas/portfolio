@@ -4,8 +4,7 @@ import styles from '../styles/components/navBar.module.css'
 
 function Navbar() {
   return (
-    <div className={styles.navbar}>
-        
+    <div className={styles.navbar}>  
       <Link to="/">Home</Link>
       <Link to="/about">About</Link>
       <Link to="/works">Works</Link>
