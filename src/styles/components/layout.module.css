@@ -1,7 +1,1 @@
-.navbar{
-    display: flex;
-    justify-content: center;
-    margin: 24px 40px;
-    background-color: #d5d0d0;
-    color: #fff;
-}
+.navbar{display:flex;justify-content:center;align-items:center;margin:24px 40px;background-color:#fff;color:#fff}
