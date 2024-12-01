@@ -9,6 +9,7 @@ function Navbar() {
       <Link to="/about">About</Link>
       <Link to="/works">Works</Link>
       <Link to="/contact">Contact</Link>
+      <div className={styles['animation start-home']}></div>
     </div>
   )
 }
